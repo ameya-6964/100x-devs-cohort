@@ -25,7 +25,7 @@ function displayTodos(todos) {
     const li = document.createElement("li");
 
     const todoText = document.createElement("span");
-    todoText.textContent = `${index + 1}. ${todo}`;
+    todoText.textContent = `${todo}`;
 
     const editButton = document.createElement("button");
     editButton.textContent = "Edit";
