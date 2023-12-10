@@ -1,0 +1,14 @@
+{
+  "name": "express-todo-app",
+  "version": "1.0.0",
+  "description": "simple-todo-app-wiyh-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ameya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
